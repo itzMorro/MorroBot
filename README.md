@@ -10,4 +10,6 @@
 
 </br>
 
+My Discord name: Morro#7070
+
 ### [Check out my Minecraft TexturePack](https://github.com/itzMorro/MorroPack)
